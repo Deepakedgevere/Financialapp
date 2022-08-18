@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-cout<<"hello world1";
+cout<<"hello world2";
 
 return 0;
 }
