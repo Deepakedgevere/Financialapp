@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-cout<<"India";
+cout<<"America";
 return 0;
 }

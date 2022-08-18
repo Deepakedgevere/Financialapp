@@ -2,8 +2,8 @@
 using namespace std;
 
 int main()
-{ int a=3;
-int b=7;
-cout<<a+b;
+{ int a=7;
+int b=3;
+cout<<a-b;
 return 0;
 }
