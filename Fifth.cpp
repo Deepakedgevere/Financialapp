@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-cout<<"happy Diwali ";
+cout<<"happy holi ";
 return 0;
 }
