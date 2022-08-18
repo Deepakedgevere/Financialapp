@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-cout<<"namaskar";
+cout<<"namaskar2";
 return 0;
 }
