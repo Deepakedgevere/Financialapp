@@ -2,7 +2,8 @@
 using namespace std;
 
 int main()
-{
-cout<<"namaskar";
+{ int a=3;
+int b=7;
+cout<<a+b;
 return 0;
 }
